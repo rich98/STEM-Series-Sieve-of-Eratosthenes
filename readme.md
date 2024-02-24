@@ -6,4 +6,4 @@ The earliest known mention of the sieve (Ancient Greek: κόσκινον Ἐρα
 
 As one of several prime number sieves, it is considered one of the most effective methods for finding all smaller primes. It can also be used to identify primes in arithmetic progressions.
 
- 1 to 1Billion there 50847534 primes
+Use Winrar to download primes.part1 and primes.part2, once meged you will have a list of all the primes between 1 to 1Billion there 50847534 primes. 

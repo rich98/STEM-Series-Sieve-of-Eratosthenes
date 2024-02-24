@@ -1,11 +1,7 @@
-In mathematics, the sieve of Eratosthenes is an ancient algorithm for finding all prime numbers up to any given limit.
+The Sieve of Eratosthenes, a mathematical method from antiquity, is used to identify all prime numbers up to a specified limit.
 
-It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the first prime number, 
-2. The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.
-This is the sieve's key distinction from using trial division to sequentially test each candidate number for divisibility by each prime. 
-Once all the multiples of each discovered prime have been marked as composites, the remaining unmarked numbers are primes.
+The process involves iteratively identifying the multiples of each prime number as composite (meaning, not prime), beginning with the first prime number, 2. The multiples of a specific prime are produced as a sequence of numbers that start from that prime, with a constant difference between them equal to that prime. This characteristic sets the sieve apart from the method of trial division, which tests each potential number sequentially for divisibility by each prime. After all multiples of each identified prime have been labeled as composites, the remaining numbers that are unmarked are primes.
 
-The earliest known reference to the sieve (Ancient Greek: κόσκινον Ἐρατοσθένους, kóskinon Eratosthénous) is in Nicomachus of Gerasa's Introduction to Arithmetic, an early 2nd cent. 
-CE book which attributes it to Eratosthenes of Cyrene, a 3rd cent. BCE Greek mathematician, though describing the sieving by odd numbers instead of by primes.
+The earliest known mention of the sieve (Ancient Greek: κόσκινον Ἐρατοσθένους, kóskinon Eratosthénous) is found in Nicomachus of Gerasa’s Introduction to Arithmetic, a book from the early 2nd century CE. The book credits the method to Eratosthenes of Cyrene, a Greek mathematician from the 3rd century BCE, but it describes the sieving process by odd numbers instead of by primes.
 
-One of a number of prime number sieves, it is one of the most efficient ways to find all of the smaller primes. It may be used to find primes in arithmetic progressions.
+As one of several prime number sieves, it is considered one of the most effective methods for finding all smaller primes. It can also be used to identify primes in arithmetic progressions.

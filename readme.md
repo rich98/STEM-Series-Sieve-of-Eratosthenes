@@ -5,3 +5,5 @@ The process involves iteratively identifying the multiples of each prime number 
 The earliest known mention of the sieve (Ancient Greek: κόσκινον Ἐρατοσθένους, kóskinon Eratosthénous) is found in Nicomachus of Gerasa’s Introduction to Arithmetic, a book from the early 2nd century CE. The book credits the method to Eratosthenes of Cyrene, a Greek mathematician from the 3rd century BCE, but it describes the sieving process by odd numbers instead of by primes.
 
 As one of several prime number sieves, it is considered one of the most effective methods for finding all smaller primes. It can also be used to identify primes in arithmetic progressions.
+
+ 1 to 1Billion there 50847534 primes

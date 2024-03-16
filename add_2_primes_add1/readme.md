@@ -1,6 +1,7 @@
 This is an implementation of the Sieve of Eratosthenes algorithm, which is used to find all prime numbers up to a given limit. Here’s a step-by-step breakdown:
 
 The function sieve_of_eratosthenes(limit) takes an integer limit as an argument, which is the upper limit up to which we want to find prime numbers.
+
 A list primes of boolean values is initialized with True of size limit. The indices of this list represent numbers from 0 to limit - 1. If primesis True, it means that i is a prime number.
 The first and second indices are set to False as 0 and 1 are not prime numbers.
 The code then iterates over each index-value pair in the primes list. If the value is True (meaning the index is a prime number), it sets all multiples of this number in the primes list to False (since multiples of a prime number are not prime). It also appends this prime number to the prime_numbers list.
